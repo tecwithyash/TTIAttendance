@@ -1,0 +1,3 @@
+wxPython
+bcrypt
+pyodbc  # If you're using MS SQL Server

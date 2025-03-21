@@ -1,0 +1,39 @@
+Hello all, I am Yash.
+and my team Mets Ashwini, Netaji are here with me.
+currently I am pursuing BA 2nd year.
+I am looking job as an intern in python development or database management.
+We are presenting employee attendance system, which is based on Python programming language  and SSM database.
+python we have used for backend and WX python library we have used for GUI.
+SSM database we have used for storing and retrieving data and perform CRUD operations.
+for connection of python and SSM we have used PYODBC python library.
+Our project is useful in hr works.
+For tracking salary of all employees .
+in Our project salary will be count on attendance of employee.
+for Marking attendance employee need to register in our system for registration we have given registration feature here.
+I would like to Handover this project to Ashwini for Explaining registration feature.
+part 2:
+now I am going to Present marking attendance feature.
+Before that I would like to explain admin options here.
+whenever knew employee will be register so admin will get Notification for approval to new employee in admin options.
+this will Happened using sql trigger.
+Trigger is part of data integrity.
+and data integrity there are two types of data integrity.
+First is system created,
+and 2nd is users created.
+Trigger is part of users created  data Integrity.
+Whenever new employee will be register ed in our system so data will be stored in users table and we are using trigger that's why some data will become in notification table and salary table.
+After the admin approval user can mark their attendance daily.
+For marking attendance user Need to enter their user name and password.
+For a password security we have used bcrypt python library.
+Using this library we can store users password in hash form.
+Whenever employee will be mark their attendance so in attendance history time will be stored.
+ for storing time automatically we have used getdate  function of sql.
+use of getdate function is use for getting Current time and date Automatically buy system.
+After the login count salary automatically this will explain Netaji to us using user dashboard feature.
+part 3:
+now I am going to tell .
+In the future we will try to use cloud databases.
+Because every employee should get this application in their own systems.
+We can add GPS Also for tracking location of device when employee will be mark there attendance.
+we can face authentication also mark for marking attendance of any employee.
+Thank you for giving this beautiful opportunity to present this project.
